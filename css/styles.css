@@ -60,7 +60,7 @@
   --bs-font-sans-serif: "Maleah", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-  --bs-body-font-family: Merriweather, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+  --bs-body-font-family: "Maleah", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
@@ -107,9 +107,8 @@
 
   /* Webfont: Richard&Caroline */@font-face {
     font-family: 'Richard & Caroline';
-    src: url('css/Maleah-Regular.woff') format('woff'), /* Modern Browsers */
-         url('css/Maleah-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('css/Maleah-Regular.svg#Maleah-Regular') format('svg'); /* Legacy iOS */
+    src: url('css/Richard&Caroline-Normal.woff') format('woff'), /* Modern Browsers */
+         url('css/Richard&Caroline-Normal.ttf') format('truetype'), /* Safari, Android, iOS */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
