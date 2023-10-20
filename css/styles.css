@@ -95,11 +95,11 @@
   
 /* Webfont: Maleah-Regular */@font-face {
     font-family: 'Maleah';
-    src: url('Maleah-Regular.eot'); /* IE9 Compat Modes */
-    src: url('Maleah-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('Maleah-Regular.woff') format('woff'), /* Modern Browsers */
-         url('Maleah-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-         url('Maleah-Regular.svg#Maleah-Regular') format('svg'); /* Legacy iOS */
+    src: url('css/Maleah-Regular.eot'); /* IE9 Compat Modes */
+    src: url('css/Maleah-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('css/Maleah-Regular.woff') format('woff'), /* Modern Browsers */
+         url('css/Maleah-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('css/Maleah-Regular.svg#Maleah-Regular') format('svg'); /* Legacy iOS */
     font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
